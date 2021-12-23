@@ -1,4 +1,13 @@
-### Hi there 👋
+### Bem vindo! 👋
+
+##### Que bom encontrar você aqui.
+##### Meu nome é Paulo Lorevice, Engenheiro Agrônomo e conclui recentemente o curso de Engenharia de Dados pela SoulCode Academy.
+##### Estou em processo de transição de carreira para a área de tecnologia. 
+##### Atualmente tenho focado meu tempo e aprendizado sobre Engenharia de Dados, Cloud Computing, Banco de Dados, Python, BigQuery, DataFlow, Pipelines. 
+
+Em construção
+
+
 
 <!--
 **LoreviceP/LoreviceP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
