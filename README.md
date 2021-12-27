@@ -18,7 +18,13 @@
   <img align="center" alt="Paulo-GitHub" height="70" width="90" src="https://github.com/LoreviceP/LoreviceP/blob/main/pngegg.png">
 </div>
 
-  
+### Onde me encontrar:
+
+<div>
+  <a href = "https://www.linkedin.com/in/paulo-lorevice/"><img align="left"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+</div><br>
+
+  ## 
 
 
 <!--
