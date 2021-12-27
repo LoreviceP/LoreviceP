@@ -7,6 +7,14 @@
 
 Em construção
 
+### Ferramentas
+
+<img src="D:\Users\paulo\Documents\Estudo\GitHub\Repositorios\ProfileGitHub\language-logo-python-44976.png" alt="language-logo-python-44976" style="zoom:25%;" />
+
+<img src="D:\Users\paulo\Documents\Estudo\GitHub\Repositorios\ProfileGitHub\google_cloud_logo_icon_170066.png" alt="google_cloud_logo_icon_170066" style="zoom:33%;" />
+
+<img src="D:\Users\paulo\Documents\Estudo\GitHub\Repositorios\ProfileGitHub\pngegg.png" alt="pngegg" style="zoom: 25%;" />
+
 
 
 <!--
