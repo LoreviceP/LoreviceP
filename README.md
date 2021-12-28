@@ -15,7 +15,9 @@
   <img align="center" alt="Paulo-VSCode" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg">
   <img align="center" alt="Paulo-Git" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
   <img align="center" alt="Paulo-GitHub" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
-  <img align="center" alt="Paulo-GitHub" height="70" width="90" src="https://github.com/LoreviceP/LoreviceP/blob/main/pngegg.png">
+  <img align="center" alt="Paulo-Spark" height="70" width="90" src="https://github.com/LoreviceP/LoreviceP/blob/main/pngegg.png">
+  <img align="center" alt="Paulo-MySQL" height="70" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  
 </div>
 
 ### Onde me encontrar:
