@@ -23,9 +23,10 @@
 ### Onde me encontrar:
 
 <div>
-  <a href = "https://www.linkedin.com/in/paulo-lorevice/"><img align="left"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
-</div><br>
-
+  <a href = "https://www.linkedin.com/in/paulo-lorevice/"><img align="left"  width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+  <a href = "mailto:lorevice.pg19@gmail.com"><img align="center" width="100px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the- badge&logo=gmail&logoColor=white"></a>
+</div><br>  
+  
   ## 
 
 
