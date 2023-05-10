@@ -1,9 +1,9 @@
 ## Bem vindo! 👋
 
-#### Que bom encontrar você aqui.
-#### Meu nome é Paulo Lorevice, Engenheiro Agrônomo e conclui recentemente o curso de Engenharia de Dados pela SoulCode Academy.
-#### Estou em processo de transição de carreira para a área de tecnologia. 
-#### Atualmente tenho focado meu tempo e aprendizado sobre Engenharia de Dados, Cloud Computing, Banco de Dados, Python, BigQuery, DataFlow, Pipelines. 
+#### Meu nome é Paulo Lorevice, Engenheiro Agrônomo, já tendo atuado no mercado agro, mas como sempre estive ligado à tecnologia recentemente transitei para a àrea por meio do curso de Engenharia de Dados pela SoulCode Academy.
+#### Atualmente tenho atuado Engenheiro de Dados Jr. na Niteo.
+#### Aqui você irá encontrar em repositórios alguns dos meus projetos de estudos. 
+
 
 ## Linguagens e Ferramentas
 </div>
@@ -11,7 +11,6 @@
   <img align="center" alt="Paulo-GCP" height="80" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original-wordmark.svg">
   <img align="center" alt="Paulo-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Paulo-Pandas" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg">
-  <img align="center" alt="Paulo-MongoDB" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="Paulo-VSCode" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg">
   <img align="center" alt="Paulo-Git" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
   <img align="center" alt="Paulo-GitHub" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
